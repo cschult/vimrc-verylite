@@ -1,5 +1,6 @@
-" ~/.vimrc
-" repo: vcsh vim
+" file: /home/cs/Dateien/src/github/cschult/vimrc-verylite/vimrc
+" git: /home/cs/Dateien/src/github/cschult/vimrc-verylite
+" author: Christian Schult cschult@demem.de 2025
 
 " falls vim als easy-vim gestartet wird rc-file nicht lesen
 if v:progname =~? "evim"
